@@ -1,0 +1,7 @@
+# Generated release artifacts
+dist/
+
+# Local development
+.DS_Store
+*.log
+__pycache__/
