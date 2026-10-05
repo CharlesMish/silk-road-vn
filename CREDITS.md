@@ -18,4 +18,7 @@ These credits are also displayed inside the game’s Audio menu.
 
 ## Rights note
 
-No open-source license has been selected for the original game materials. The CC0 recordings listed above retain their CC0 status.
+CharlesMish's original game materials are available under the [MIT License](LICENSE),
+to the extent CharlesMish holds the rights to them. The CC0 recordings listed
+above retain their CC0 status. Bundled React code retains its own MIT license
+and copyright notice; see [Third-party notices](site/THIRD_PARTY_NOTICES.txt).

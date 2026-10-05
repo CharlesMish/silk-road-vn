@@ -34,4 +34,15 @@ An offline ZIP is attached to the [latest GitHub Release](https://github.com/Cha
 
 Current public build: `v0.3.0-F10.1`
 
-No open-source license has been selected for the original game code, story, characters, artwork, or music. Third-party CC0 audio remains available under CC0.
+## License
+
+CharlesMish's original game code, story, characters, artwork, recorded motif
+cues, and documentation are available under the [MIT License](LICENSE), to
+the extent CharlesMish holds the rights to them. This grant does not relicense
+third-party material or claim ownership of it.
+
+The bundled React runtime retains its own MIT license and copyright notice;
+see [Third-party notices](site/THIRD_PARTY_NOTICES.txt). The six recordings
+listed in [CREDITS.md](CREDITS.md) retain their CC0 status. Preserve these
+notices when redistributing the game. The existing release ZIP is unchanged;
+include LICENSE and these third-party notices with any new redistribution.
